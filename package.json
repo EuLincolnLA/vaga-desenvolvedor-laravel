@@ -1,0 +1,19 @@
+{
+  "name": "api-basicona",
+  "version": "1.0.0",
+  "description": "API Basicona para mostrar o uso do Docker",
+  "main": "app/app.js",
+  "author": "Gabriel Froes",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.1",
+    "module_name": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.5"
+  }
+}
