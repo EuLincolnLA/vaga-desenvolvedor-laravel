@@ -27,7 +27,7 @@ Você deve alterar esta modelagem para que a mesma cumpra com as três primeiras
 Além disso, a implementação deste modelo em um banco de dados relacional deve ser realizada levando em consideração os seguintes requisitos:
 
 - O banco de dados deve ser criado utilizando Migrations do framework Laravel, e também utilizar Seeds e Factorys para popular as informações no banco de dados.
-- Implementação das validações necessárias na camada que julgar melhor.
+- Implementação das validações necessárias na camada que julgar melhor...
 
 ## Tecnologias a serem utilizadas
 
